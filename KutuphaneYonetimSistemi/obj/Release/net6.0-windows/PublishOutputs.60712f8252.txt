@@ -1,0 +1,11 @@
+C:\Projeler\kutuphaneotomasyonu\KutuphaneYonetimSistemi.exe
+C:\Projeler\kutuphaneotomasyonu\KutuphaneYonetimSistemi.dll
+C:\Projeler\kutuphaneotomasyonu\KutuphaneYonetimSistemi.deps.json
+C:\Projeler\kutuphaneotomasyonu\KutuphaneYonetimSistemi.runtimeconfig.json
+C:\Projeler\kutuphaneotomasyonu\KutuphaneYonetimSistemi.pdb
+C:\Projeler\kutuphaneotomasyonu\System.Data.SqlClient.dll
+C:\Projeler\kutuphaneotomasyonu\runtimes\win-arm64\native\sni.dll
+C:\Projeler\kutuphaneotomasyonu\runtimes\win-x64\native\sni.dll
+C:\Projeler\kutuphaneotomasyonu\runtimes\win-x86\native\sni.dll
+C:\Projeler\kutuphaneotomasyonu\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projeler\kutuphaneotomasyonu\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
